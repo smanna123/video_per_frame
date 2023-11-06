@@ -1,1 +1,3 @@
-opecv-python
+opencv-python
+fastapi
+
