@@ -1,1 +1,1 @@
-opecv-python
+opencv-python
